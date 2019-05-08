@@ -2,6 +2,7 @@
 \alias{getMin}
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{
+  getMin
 %%  ~~function to do ... ~~
 }
 \description{
