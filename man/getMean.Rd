@@ -2,6 +2,7 @@
 \alias{getMean}
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{
+  getMean
 %%  ~~function to do ... ~~
 }
 \description{
