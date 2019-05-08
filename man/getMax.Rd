@@ -2,6 +2,7 @@
 \alias{getMax}
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{
+  getMax
 %%  ~~function to do ... ~~
 }
 \description{
